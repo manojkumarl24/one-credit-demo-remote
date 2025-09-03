@@ -1,6 +1,6 @@
 one-credit-demo
 
-This repo is created to practise git workflow and commands.
+This repo is created to practise git workflow and commands. Change here to test conflict
 
 The first task is to create .gitignore and README.MD files and commit the changes.
 
@@ -13,3 +13,9 @@ Furthermore, created this empty repo in Github and using its link, created this 
 Now, in the github verified that the local changes are pushed into the github repo and gone through the commit history. MOving on, I have modified this README file and commiting in Github. Afterwards, I will check the commit history as remote repo in my local Git bash.
 
 Again, to demonstarte fetch vs pull , I'm adding this line by which I call git fetch to view the updated commit history in my local without merging it..
+
+
+--BACK AGAIN: 
+
+
+--BACK AGAIN: Added this line to practis branching and merging and changed one of the line above to try merge conflicts.
